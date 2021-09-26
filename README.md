@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**premmm123/premmm123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<body>
+<h2 align="center">ABOUT ME</h2>
+<img src="https://media.giphy.com/media/7mQbDHkoSsWl2/giphy.gif" align="right">
+<br>
+  <li><b>nothing about me ...</b></li>
+<br
+    <br>
+  <a href="https://guthib.com/"><img alt="GitHub" height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></a>
+    <br>
+  <br>
+    <br>
+  <br>
+<body>
+  <!--
+<div align="center">
+  <img src="https://media.giphy.com/media/7mQbDHkoSsWl2/giphy.gif">
+</div>
 -->
