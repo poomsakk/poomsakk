@@ -8,9 +8,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poomsakk&layout=compact&theme=radical" height="180"/>
 </div>
   <h2>My projects</h2>
-  <h3>Piranyahub</h3>
-  <li>Website to search for lodge near KMITL. There is a system that allows the landlord to post announcements.</li>
+  <h3>Portfolio website (Personal project)</h3>
+  <li>Demo link - http://poomsakk.com/</li>
+  <li>Build with - React</li>
+  <li>Source code - https://github.com/poomsakk/my-portfolio</li>
+  <h3>Piranyahub webapp (Project during study)</h3>
+  <li>Website to search for lodge near KMITL. There is a system that allows the landlord to post announcements</li>
   <li>Demo video - https://youtu.be/aBKQB63tBzE</li>
-  <li>Build with - React, Spring boot, MongoDB, Cloundinary, JWT, Redux, MUI, Tailwind, Google Maps Platform</li>
+  <li>Build with - React, Spring boot, MongoDB, Cloundinary</li>
   <li>Source code - https://github.com/poomsakk/piranya-hub</li>
+  <h3>Novelties webapp (Project during study)</h3>
+  <li>rent/buy novels online website</li>
+  <li>Build with - React, Node.js, Express, MongoDB, Cloundinary</li>
+  <li>Source code - https://github.com/poomsakk/Novelties</li>
 </body>
