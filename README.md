@@ -10,8 +10,7 @@
   <h2>My projects</h2>
   <h3>Piranyahub</h3>
   <li>Website to search for lodge near KMITL. There is a system that allows the landlord to post announcements.</li>
-  <li>Demo video - <a target="_blank" href="https://youtu.be/aBKQB63tBzE">Youtube link</a></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Demo video - https://youtu.be/aBKQB63tBzE</li>
+  <li>Build with - React, Spring boot, MongoDB, Cloundinary, JWT, Redux, MUI, Tailwind, Google Maps Platform</li>
+  <li>Source code - https://github.com/poomsakk/piranya-hub</li>
 </body>
