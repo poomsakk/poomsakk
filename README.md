@@ -7,6 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=poomsakk&show_icons=true&theme=radical"  height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poomsakk&layout=compact&theme=radical" height="180"/>
 </div>
+  
   <h2>My projects</h2>
   <h3>🌐 - Portfolio website (Personal project)</h3>
   <li>Demo link - http://poomsakk.com/</li>
@@ -39,4 +40,21 @@
   <li>Demo video - https://youtu.be/2pwsOmQPvBY</li>
   <li>Build with - C++, sfml</li>
   <li>Source code - https://github.com/poomsakk/GAME_sfml</li>
+  
+  <h2>Skills</h2>
+  <p>C, C++,C#, Python, Java, HTML, CSS, Javascript, React, MongoDB, Redux, Spring Boot, Node.js, Express, Git, Github, Google maps platform</p>
+  
+  <h2>Contact</h2>
+  <p>E-mail : poomsakppk@gmail.com</p>
+  <div align="left">
+    <a href="https://www.instagram.com/pkk.ks/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+      </a>
+  <a href="https://www.linkedin.com/in/poomsak-kaewsee-385572254/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/poomsak.kaewsee/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  </div>
 </body>
