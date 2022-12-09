@@ -10,7 +10,7 @@
   
   <h2>My projects</h2>
   <h3>🌐 - Portfolio website (Personal project)</h3>
-  <li>Demo link - http://poomsakk.com/</li>
+  <li>Demo link - http://portfolio.poomsakk.com/</li>
   <li>Build with - React</li>
   <li>Source code - https://github.com/poomsakk/my-portfolio</li>
   <h3>🌐 - Piranyahub webapp (Project during study)</h3>
