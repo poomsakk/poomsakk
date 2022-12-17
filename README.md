@@ -21,6 +21,7 @@
   <li>Source code - https://github.com/poomsakk/piranya-hub</li>
   <h3>🌐 - Novelties webapp (Project during study)</h3>
   <li>rent/buy novels online website</li>
+  <li>Demo link - https://novelties.poomsakk.com/</li>
   <li>Build with - React, Node.js, Express, MongoDB, Cloundinary</li>
   <li>Source code - https://github.com/poomsakk/Novelties</li>
   <h3>🌐 - Sporty website (Project during study)</h3>
@@ -48,9 +49,6 @@
   <h2>Contact</h2>
   <p>E-mail : poomsakppk@gmail.com</p>
   <div align="left">
-    <a href="https://www.instagram.com/pkk.ks/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-      </a>
   <a href="https://www.linkedin.com/in/poomsak-kaewsee-385572254/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
