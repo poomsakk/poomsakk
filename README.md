@@ -16,6 +16,7 @@
   <h3>🌐 - Piranyahub webapp (Project during study)</h3>
   <li>Website to search for lodge near KMITL. There is a system that allows the landlord to post announcements</li>
   <li>Demo video - https://youtu.be/aBKQB63tBzE</li>
+  <li>Demo link - https://piranyahub.poomsakk.com/</li>
   <li>Build with - React, Spring boot, MongoDB, Cloundinary</li>
   <li>Source code - https://github.com/poomsakk/piranya-hub</li>
   <h3>🌐 - Novelties webapp (Project during study)</h3>
