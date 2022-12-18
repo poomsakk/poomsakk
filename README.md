@@ -1,5 +1,5 @@
 <body>
-<h2 align="center">Hello, I'm Poomsak Kaewsee</h2>
+<h2 align="center">Hello, I'm Poomsak Kaewsee (ภูมิศักดิ์ แก้วสี)</h2>
 <li>I’m currently studying B.Eng. in Computer Engineering at KMITL (2020-2024)</li>
 <li>I’m interest in web development, software development, Fullstack (especially backend) </li>
 <br/>
