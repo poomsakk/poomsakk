@@ -1,7 +1,6 @@
 <body>
 <h2 align="center">Hello, I'm Poomsak Kaewsee (ภูมิศักดิ์ แก้วสี)</h2>
-<li>I’m currently studying B.Eng. in Computer Engineering at KMITL (2020-2024)</li>
-<li>I’m interest in web development, software development, Fullstack (especially backend) </li>
+<li>I’m interest in web development, software development, Fullstack</li>
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poomsakk&show_icons=true&theme=radical"  height="180"/>
